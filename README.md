@@ -15,3 +15,4 @@ Welcome to my data analysis project! This repository dives into sales data to ex
 - 📄 analyzing sales per country from the least to the highest.sql
 - 📄 biggest sales based on customer_id each year.sql
 - 📄 filtering the most sales based on age group.sql
+- 📄 Query to see which product is the least popular in the US branch.sql
