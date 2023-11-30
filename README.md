@@ -10,9 +10,9 @@ Welcome to my data analysis project! This repository dives into sales data to ex
 
 ```plaintext
 - 📁 sql
-- 📄 Analysing which gender has the beiggest sales and buyers.sql
-- 📄 analysing which colors were favorite based on year sales.sql
-- 📄 analyzing sales per country from the least to the highest.sql
-- 📄 biggest sales based on customer_id each year.sql
-- 📄 filtering the most sales based on age group.sql
-- 📄 Query to see which product is the least popular in the US branch.sql
+- 📄 [Analysing which gender has the beiggest sales and buyers.sql](sql/Analysing which gender has the beiggest sales and buyers.sql)
+- 📄 [analysing which colors were favorite based on year sales.sql](sql/analysing which colors were favorite based on year sales.sql)
+- 📄 [analyzing sales per country from the least to the highest.sql](sql/analyzing sales per country from the least to the highest.sql)
+- 📄 [biggest sales based on customer_id each year.sql](sql/biggest sales based on customer_id each year.sql)
+- 📄 [filtering the most sales based on age group.sql](sql/filtering the most sales based on age group.sql)
+- 📄 [Query to see which product is the least popular in the US branch.sql](sql/Query to see which product is the least popular in the US branch.sql)
