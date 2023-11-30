@@ -1,17 +1,17 @@
 # sql
 testing and experiment of sql
-# Data Analysis Project
+# 🚀 Data Analysis Project
 
 ## Overview
 
-This project involves analyzing sales data for business insights. The primary analyses include determining the popularity of colors, examining sales based on gender, and identifying top customers.
+Welcome to our data analysis project! This repository dives into sales data to extract valuable business insights. Discover the hottest colors, understand gender-based sales trends, and identify our top-performing customers.
 
-## File Structure
+## 📂 File Structure
 
 ```plaintext
-- /sql
-- Analysing which gender has the beiggest sales and buyers.sql
-- analysing which colors were favorite based on year sales.sql
-- analyzing sales per country from the least to the highest.sql
-- biggest sales based on customer_id each year.sql
-- filtering the most sales based on age group.sql
+- 📁 sql
+- 📄 Analysing which gender has the beiggest sales and buyers.sql
+- 📄 analysing which colors were favorite based on year sales.sql
+- 📄 analyzing sales per country from the least to the highest.sql
+- 📄 biggest sales based on customer_id each year.sql
+- 📄 filtering the most sales based on age group.sql
