@@ -4,7 +4,7 @@ testing and experiment of sql
 
 ## Overview
 
-Welcome to our data analysis project! This repository dives into sales data to extract valuable business insights. Discover the hottest colors, understand gender-based sales trends, and identify our top-performing customers.
+Welcome to my data analysis project! This repository dives into sales data to extract valuable business insights. Discover the hottest colors, understand gender-based sales trends, and identify our top-performing customers.
 
 ## 📂 File Structure
 
